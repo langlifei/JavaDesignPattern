@@ -1,7 +1,5 @@
 package SinglePattern04.exercise.IoDH;
 
-import SinglePattern04.exercise.eagerSingleton.EagerLoadBalancer;
-
 import java.util.stream.Stream;
 
 /**
