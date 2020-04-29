@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <className>AdapterPattern07.exercise.adapter.MD5Adapter</className>
+</config>
