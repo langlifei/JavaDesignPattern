@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <className>CommandPattern15.example.command.concreteCommand.MinimizeCommand</className>
+    <className>CommandPattern15.example.command.concreteCommand.HelpCommand</className>
+</config>
