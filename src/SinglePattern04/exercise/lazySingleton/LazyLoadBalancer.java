@@ -1,7 +1,5 @@
 package SinglePattern04.exercise.lazySingleton;
 
-import SinglePattern04.exercise.eagerSingleton.EagerLoadBalancer;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
